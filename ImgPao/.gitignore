@@ -1,0 +1,53 @@
+AVALIAÇÃO FINAL – HTML E GIT
+Estudo de Caso: Seu João do Pão de Queijo
+
+Seu João tem 63 anos e é um morador antigo da comunidade. Depois de se aposentar como porteiro, decidiu investir em uma paixão antiga: fazer pão de queijo! Ele começou vendendo para os vizinhos, mas o sucesso foi tanto que agora quer expandir seus pedidos e atrair novos clientes com um site simples.
+Objetivo do site:
+Ajudar Seu João a apresentar seu negócio de forma simples e simpática, mostrar os tipos de pão de queijo que ele vende e facilitar o contato com clientes para encomendas.
+Atividade: individual
+Duração: duas aulas
+Nota: estrutura básica com as páginas e navegação - vale nota 7
+
+Informações para usar no site
+•	Nome do negócio: Pão de Queijo do Seu João
+•	Slogan (opcional): "O sabor mineiro que derrete na boca!"
+•	Endereço: Rua das Mangueiras, 123 – Bairro Jardim Esperança
+•	Telefone para encomendas: (11) 91234-5678
+•	E-mail (fictício): seujoao.pao@gmail.com
+•	Funcionamento: Segunda a sábado, das 8h às 18h
+•	Formas de entrega: Retirada no local ou entrega por motoboy (a combinar)
+
+Produtos (exemplos)
+•	Pão de queijo tradicional – R$ 1,50 (unidade)
+•	Pão de queijo recheado com goiabada – R$ 2,00 (unidade)
+•	Pão de queijo com queijo da Serra da Canastra – R$ 2,50 (unidade)
+•	Pacote com 10 unidades congeladas – R$ 12,00
+
+Sobre o João (exemplo de texto que pode ser adaptado)
+"Depois de trabalhar a vida toda como porteiro, resolvi realizar meu sonho de viver da cozinha. Comecei com uma fornada de pão de queijo para os vizinhos e hoje já atendo vários bairros. Uso receita de família, com queijo de verdade e muito carinho em cada bolinha assada."
+ 
+O BRIEFING DO SEU JOÃO
+1. Página Inicial – "Queria uma página de entrada que já mostre o nome do meu negócio, e diga rapidinho o que eu vendo. Se puder, coloca uma frase de impacto, tipo ‘o sabor mineiro que derrete na boca’. Também queria que essa página levasse para as outras partes do site, como quem eu sou, os produtos e como fazer pedidos." (2 pontos)
+2. Página “Sobre” – "Queria contar um pouco da minha história. Que sou aposentado, que comecei vendendo para os vizinhos, que uso receita da minha mãe... Pode pôr uma imagem aí também, pra deixar mais bonito. Pode ser uma foto do pão de queijo ou da cozinha, se tiver." (1 ponto)
+3. Página “Produtos” – "Aqui eu queria mostrar o que eu vendo: pão de queijo tradicional, recheado com goiabada, com queijo da Serra da Canastra, e os pacotes congelados. Se der, bota os preços do lado, para a pessoa já ter uma ideia." (1 ponto)
+4. Página “Contato” – "Por fim, queria uma página onde a pessoa possa me mandar uma mensagem. Tipo: nome, telefone e o que ela quer encomendar. Pode deixar meu número e meu e-mail também visíveis." (1 ponto)
+5. Navegação – "Ah! E é importante que todas as páginas tenham um menu para a pessoa conseguir ir de uma para outra fácil, tá bom?" (1 ponto)
+
+Cores
+ 
+DESENVOLVIMENTO DA ATIVIDADE
+•	Crie um repositório local e outro repositório no GitHub com o nome: ProjetoJoãoQueijo
+•	Utilize todos os conhecimentos adquiridos até o momento (HTML e Git).
+•	Crie um diretório chamado cliente contendo informações internas do projeto (ex: anotações, textos brutos, esboços)
+•	Adicione o diretório cliente no arquivo .gitignore para que essas informações não sejam enviadas para o GitHub
+•	Faça no mínimo 4 commits com mensagens claras e relacionadas às etapas do projeto
+•	Publique o projeto em um repositório público no GitHub
+•	A entrega mínima (estrutura básica com as páginas e navegação) vale nota 7
+•	Incrementos e melhorias no layout, conteúdo ou estrutura contam pontos extras.
+
+Dicas de sites
+Imagens: https://www.pexels.com/pt-br/
+Remover o fundo da imagem: https://www.remove.bg/pt-br
+Ícones: https://www.remove.bg/pt-br
+
+
